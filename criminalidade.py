@@ -6,7 +6,6 @@ import pydeck as pdk
 # carregar os meus dados
 df = pd.read_csv('criminalidade_sp_2.csv')
 
-
 # dashboard
 st.title("Criminalidade em São Paulo")
 st.markdown(
